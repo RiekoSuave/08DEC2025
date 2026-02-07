@@ -24,5 +24,5 @@ Python
 
 Commit new files to GitHub
 - git add -a
-- git comit -m "Add javascript and python"
+- git commit -m "Add javascript and python"
 - git push
