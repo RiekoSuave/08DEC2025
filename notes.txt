@@ -1,0 +1,28 @@
+Basic CLI commands
+- pwd: present working directory
+- ls: list directory
+- mkdir <directory_name: make directory>
+- cd <directory_name: change directory>
+
+GitHub
+- create repository
+- follow the commands on GitHub
+
+Web page
+- create an index.html file !
+- open in Live server
+- add an <h1>hellow</h1>
+- add javascript <script>console.log("hello class")</script>
+open developer tools
+- add a function
+- use the debugger
+
+Python
+- print
+- add a function
+- debugger
+
+Commit new files to GitHub
+- git add -a
+- git comit -m "Add javascript and python"
+- git push
